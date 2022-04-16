@@ -1,2 +1,2 @@
-# Nitr0 Lite
+# Nitro Lite
 Download: https://github.com/javajarr/Nitr0/releases
