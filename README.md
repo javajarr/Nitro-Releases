@@ -2,3 +2,11 @@
 Downloads   : https://github.com/javajarr/Nitr0/releases  
 Discord     : https://discord.gg/WQE7kuk837  
 Missing DLL : https://docs.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist
+
+# Features
+(Compatible 1.12+)
+- Reach
+- Velocity
+- Timer
+- Autosprint
+- Autoclicker
