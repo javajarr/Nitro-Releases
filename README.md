@@ -7,8 +7,8 @@ if you get a missing DLL error : https://docs.microsoft.com/en-us/cpp/windows/la
 # Features
 [!] does NOT work on x86 versions of the game
 
-- Reach      (1.12 - 1.19.30)
-- Velocity   (1.12 - 1.19.20)
+- Reach      (1.12 - 1.19.22)
+- Velocity   (1.12 - 1.19.11)
 - Timer      (1.12+)
 - Autosprint (1.12+)
 - Autoclicker
